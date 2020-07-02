@@ -11,11 +11,14 @@
     <title>Mavambo</title>
   </head>
   <body>
-    <h1>WE START</h1>
+    <h1 class="mx-auto w-50 p-3" style="background-color: #eee;text-align: center;"> WE START</h1>
+    <div class="mx-auto w-50 p-3" style="background-color: #eee;text-align: center;">
     <?php
 echo "This is just the beginning,"."<br>";
 echo "I am sure you can see that."
 ?>
+</div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
