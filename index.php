@@ -15,7 +15,8 @@
     <div class="mx-auto w-50 p-3" style="background-color: #eee;text-align: center;">
     <?php
 echo "This is just the beginning,"."<br>";
-echo "I am sure you can see that."
+echo "I am sure you can see that.";
+echo "Just added thil line";
 ?>
 </div>
 
